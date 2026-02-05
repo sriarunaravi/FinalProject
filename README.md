@@ -19,10 +19,8 @@ Maven / IDE (Eclipse or IntelliJ)
 
 **Prerequisites**
 Before running this project, ensure you have the following installed:
-Java JDK 8 or above
-Google Chrome browser
-ChromeDriver (compatible with your Chrome version)
-IDE (Eclipse / IntelliJ)
+Java JDK 21
+IDE (Eclipse)
 TestNG plugin (if using Eclipse)
 **Project Structure**
 FinalProjectCode.java
